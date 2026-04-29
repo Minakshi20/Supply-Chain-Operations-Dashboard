@@ -111,4 +111,5 @@ Focus on high-performing sales platforms
 Improve order fulfillment rate (currently 75%)
 
 📸 Screenshots / Demo
- Dashborad link:-  https://github.com/Minakshi20/Supply-Chain-Operations-Dashboard/blob/main/Supply%20chain%20dashboard%20Operations.png
+ Dashborad link:- (https://github.com/Minakshi20/Supply-Chain-Operations-Dashboard/blob/main/Supply%20chain%20dashboard%20Operations.png)
+ 
