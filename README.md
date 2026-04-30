@@ -1,5 +1,147 @@
 # Supply-Chain-Operations-Dashboard
-📊 Samsung Supply Chain Operations Dashboard
+<h1 align="center">📊 Samsung Supply Chain Operations Dashboard</h1>
+
+<p align="center">
+  <b>End-to-End Supply Chain Analytics | Power BI Project</b><br>
+  <i>Transforming raw data into actionable business insights</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Supply-chain-dashboard.png" width="900"/>
+</p>
+
+---
+
+<h2>🚀 Project Overview</h2>
+
+<p>
+This project showcases a <b>Power BI-based Supply Chain Analytics Dashboard</b> designed to monitor and optimize
+<b>suppliers, inventory, shipments, and customer performance</b>.
+</p>
+
+<p>
+It enables organizations to improve <b>decision-making, reduce delays, and maximize operational efficiency</b>
+through real-time data visualization.
+</p>
+
+---
+
+<h2>🎯 Business Problem</h2>
+
+<ul>
+  <li>🚚 Shipment delays impacting customer satisfaction</li>
+  <li>🏭 Inefficient supplier performance</li>
+  <li>📦 Overstocking & stock shortages</li>
+  <li>📉 Lack of centralized operational visibility</li>
+</ul>
+
+<p><b>Key Questions Answered:</b></p>
+<ul>
+  <li>Which supplier has the best lead time?</li>
+  <li>Which carrier causes maximum delays?</li>
+  <li>Which platform generates highest revenue?</li>
+  <li>Are inventory levels optimized?</li>
+</ul>
+
+---
+
+<h2>🛠️ Tech Stack</h2>
+
+<ul>
+  <li><b>Power BI Desktop</b> – Dashboard development</li>
+  <li><b>Power Query</b> – Data transformation</li>
+  <li><b>DAX</b> – KPIs & calculations</li>
+  <li><b>Data Modeling</b> – Relationship building</li>
+  <li><b>File Formats</b> – .pbix, .png</li>
+</ul>
+
+---
+
+<h2>📊 Key KPIs</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Revenue-176.95M-blue"/>
+  <img src="https://img.shields.io/badge/Profit-48.56M-green"/>
+  <img src="https://img.shields.io/badge/Margin-27.44%25-orange"/>
+  <img src="https://img.shields.io/badge/Orders-8K-purple"/>
+  <img src="https://img.shields.io/badge/Fulfillment-75%25-red"/>
+</p>
+
+---
+
+<h2>📂 Dashboard Modules</h2>
+
+<h3 align="center">🏠 Home Dashboard</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Home.png" width="700"/>
+</p>
+
+<h3 align="center">🏭 Supplier Analysis</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Supplier.png" width="700"/>
+</p>
+
+<h3 align="center">📦 Inventory Management</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Inventory.png" width="700"/>
+</p>
+
+<h3 align="center">🚚 Shipment Analysis</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Shipment.png" width="700"/>
+</p>
+
+<h3 align="center">👥 Customer Insights</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Customers.png" width="700"/>
+</p>
+
+---
+
+<h2>💡 Business Impact</h2>
+
+<ul>
+  <li>✅ Improved supply chain visibility</li>
+  <li>✅ Identified high-delay shipment carriers</li>
+  <li>✅ Optimized inventory planning</li>
+  <li>✅ Enhanced supplier selection strategy</li>
+  <li>✅ Increased operational efficiency</li>
+</ul>
+
+---
+
+<h2>📈 Key Insights</h2>
+
+<ul>
+  <li>📊 Top revenue platforms: Amazon & Flipkart</li>
+  <li>🚚 Major delays caused by logistics carriers</li>
+  <li>📦 Inventory imbalance across product categories</li>
+  <li>📉 Order fulfillment rate at 75% → improvement opportunity</li>
+</ul>
+
+---
+
+<h2>🔗 Live Dashboard</h2>
+
+<p>
+👉 <b>Add your Power BI / Tableau Public Link here</b>
+</p>
+
+---
+
+<h2>👨‍💻 Author</h2>
+
+<p>
+<b>Minakshi Sontakke</b><br>
+Aspiring Data Analyst | Power BI | Supply Chain Analytics
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>If you found this project valuable, don't forget to star the repository!</b>
+</p>
+
 
 A dynamic and interactive Power BI dashboard designed to analyze and optimize Samsung’s supply chain performance—covering suppliers, inventory, shipments, and customer insights for data-driven decision-making.
 
@@ -110,17 +252,4 @@ Focus on high-performing sales platforms
 ✔️ Operational Efficiency
 Improve order fulfillment rate (currently 75%)
 
-📸 Screenshots / Demo
- Dashborad link:- 
 
- ![Home](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Home.png)
-
-![Overview](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Supply-chain-dashboard.png)
-
-![Supplier](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Supplier.png)
-
-![Inventory](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Inventory.png)
-
-![Shipment](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Shipment.png)
-
-![Customers](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Customers.png)
