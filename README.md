@@ -111,5 +111,16 @@ Focus on high-performing sales platforms
 Improve order fulfillment rate (currently 75%)
 
 📸 Screenshots / Demo
- Dashborad link:- ![Samsung Supply Chain Dashboard](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Supply-chain-dashboard.png)
- 
+ Dashborad link:- 
+
+ ![Home](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Home.png)
+
+![Overview](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Supply-chain-dashboard.png)
+
+![Supplier](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Supplier.png)
+
+![Inventory](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Inventory.png)
+
+![Shipment](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Shipment.png)
+
+![Customers](https://raw.githubusercontent.com/Minakshi20/Supply-Chain-Operations-Dashboard/main/Customers.png)
